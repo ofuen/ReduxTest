@@ -4,4 +4,3 @@
 ***
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 ***
-![Alt Text](https://media.giphy.com/media/sJO5sM9GiNuNi/giphy.gif)
