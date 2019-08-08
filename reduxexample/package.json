@@ -2,7 +2,9 @@
   "name": "reduxexample",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ofuen.github.io/ReduxTest",
   "dependencies": {
+    "gh-pages": "^2.0.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-redux": "^5.1.0",
@@ -11,6 +13,8 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "start:dev": "webpack-dev-server",
     "build": "react-scripts build",
