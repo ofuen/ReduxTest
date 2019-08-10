@@ -4,11 +4,11 @@
   "private": true,
   "homepage": "http://ofuen.github.io/ReduxTest",
   "dependencies": {
-    "gh-pages": "^2.0.0",
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
-    "react-redux": "^5.1.0",
-    "react-scripts": "2.1.0",
+    "gh-pages": "^2.1.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.1.0",
+    "react-scripts": "^3.1.0",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0"
   },
@@ -31,6 +31,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "webpack": "^4.19.1"
+    "webpack": "^4.39.1"
   }
 }
