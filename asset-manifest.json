@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/ReduxTest/static/css/main.e3d6134f.chunk.css",
-    "main.js": "/ReduxTest/static/js/main.32e32ec6.chunk.js",
-    "main.js.map": "/ReduxTest/static/js/main.32e32ec6.chunk.js.map",
-    "runtime~main.js": "/ReduxTest/static/js/runtime~main.aa0eaa21.js",
-    "runtime~main.js.map": "/ReduxTest/static/js/runtime~main.aa0eaa21.js.map",
-    "static/js/2.d7d7cb7a.chunk.js": "/ReduxTest/static/js/2.d7d7cb7a.chunk.js",
-    "static/js/2.d7d7cb7a.chunk.js.map": "/ReduxTest/static/js/2.d7d7cb7a.chunk.js.map",
+    "main.css": "/ReduxTest/static/css/main.166ac893.chunk.css",
+    "main.js": "/ReduxTest/static/js/main.c2f2f223.chunk.js",
+    "main.js.map": "/ReduxTest/static/js/main.c2f2f223.chunk.js.map",
+    "runtime-main.js": "/ReduxTest/static/js/runtime-main.dee80665.js",
+    "runtime-main.js.map": "/ReduxTest/static/js/runtime-main.dee80665.js.map",
+    "static/js/2.d7784e5d.chunk.js": "/ReduxTest/static/js/2.d7784e5d.chunk.js",
+    "static/js/2.d7784e5d.chunk.js.map": "/ReduxTest/static/js/2.d7784e5d.chunk.js.map",
     "index.html": "/ReduxTest/index.html",
-    "precache-manifest.667ece7380d0d87dd497450c4466f7ea.js": "/ReduxTest/precache-manifest.667ece7380d0d87dd497450c4466f7ea.js",
+    "precache-manifest.ccd3a34e9c5bc1a9fcf21af6ffe115e6.js": "/ReduxTest/precache-manifest.ccd3a34e9c5bc1a9fcf21af6ffe115e6.js",
     "service-worker.js": "/ReduxTest/service-worker.js",
-    "static/css/main.e3d6134f.chunk.css.map": "/ReduxTest/static/css/main.e3d6134f.chunk.css.map",
+    "static/css/main.166ac893.chunk.css.map": "/ReduxTest/static/css/main.166ac893.chunk.css.map",
+    "static/js/2.d7784e5d.chunk.js.LICENSE.txt": "/ReduxTest/static/js/2.d7784e5d.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/ReduxTest/static/media/logo.ee7cd8ed.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dee80665.js",
+    "static/js/2.d7784e5d.chunk.js",
+    "static/css/main.166ac893.chunk.css",
+    "static/js/main.c2f2f223.chunk.js"
+  ]
 }
