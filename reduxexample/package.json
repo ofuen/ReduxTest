@@ -5,6 +5,7 @@
   "homepage": "http://ofuen.github.io/ReduxTest",
   "dependencies": {
     "gh-pages": "^2.2.0",
+    "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
