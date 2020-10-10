@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://ofuen.github.io/ReduxTest",
   "dependencies": {
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^3.1.0",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
     "react": "^17.0.0-rc.3",
